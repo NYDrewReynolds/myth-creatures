@@ -25,8 +25,4 @@ describe Medusa do
   expect(@victim.stoned?).to eq(true)
   end
 
-
-
-
-
 end
